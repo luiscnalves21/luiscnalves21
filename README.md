@@ -4,7 +4,7 @@
 </div>
 <br>
 
-Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto at Bachelor in Informatics and Computing Engineering ([L.EIC](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_ano_lectivo=2021&pv_curso_id=22841)).
+Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto at Master in Informatics and Computing Engineering ([M.EIC](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22862)).
 
 <div align="center">
   <img style="margin-right: 40px" height="180em" src="https://github-readme-stats.vercel.app/api?username=luiscnalves21&show_icons=true&theme=dark"/>
